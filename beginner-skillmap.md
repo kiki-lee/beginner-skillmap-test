@@ -17,7 +17,7 @@
 * tags: easy, story, card, creative
 * next: clicker-activity1
 
-* url: https://github.com/microsoft/pxt-arcade/docs/skillmap/story/card 
+* url: https://github.com/microsoft/pxt-arcade/docs/skillmap/story/story1 
 * imageUrl: /static/skillmaps/story/story-activity1.png
 
 ### clicker-activity1
