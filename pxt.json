@@ -10,7 +10,8 @@
         "README.md",
         "assets.json",
         "beginner-skillmap.md",
-        "story1.md"
+        "story1.md",
+        "story2.md"
     ],
     "testFiles": [
         "test.ts"
