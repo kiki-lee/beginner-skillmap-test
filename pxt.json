@@ -11,7 +11,14 @@
         "assets.json",
         "beginner-skillmap.md",
         "story1.md",
-        "story2.md"
+        "story2.md",
+        "saltwater.gif",
+        "card.gif",
+        "muffins.gif",
+        "skydiving.gif",
+        "story-activity-1.png",
+        "story-activity-2.png",
+        "story-activity-3.png"
     ],
     "testFiles": [
         "test.ts"
